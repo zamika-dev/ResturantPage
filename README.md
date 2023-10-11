@@ -1,2 +1,2 @@
 # ResturantPage
-this is a practice project for the odin project 
+this is a practice project for the odin project website
